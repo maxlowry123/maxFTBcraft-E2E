@@ -1114,12 +1114,6 @@ bloodmagic {
 }
 
 
-bonsaitrees {
-    B:bonsaipot=false
-    B:bonsaipot.1=false
-}
-
-
 botania {
     B:alchemycatalyst=true
     B:alfheimportal=false
@@ -4246,44 +4240,6 @@ draconicevolution {
 }
 
 
-dynamictrees {
-    B:acaciabranch=false
-    B:birchbranch=false
-    B:cactusbranch=false
-    B:darkoakbranch=false
-    B:dendrocoil=false
-    B:junglebranch=false
-    B:leaves0=false
-    B:leaves1=false
-    B:oakbranch=false
-    B:sprucebranch=false
-}
-
-
-dynamictreesbop {
-    B:bamboobranch=false
-    B:cherrybranch=false
-    B:deadbranch=false
-    B:ebonybranch=false
-    B:eucalyptusbranch=false
-    B:firbranch=false
-    B:hellbarkbranch=false
-    B:jacarandabranch=false
-    B:magicbranch=false
-    B:mahoganybranch=false
-    B:palmbranch=false
-    B:pinebranch=false
-    B:umbranbranch=false
-    B:willowbranch=false
-}
-
-
-dynamictreestc {
-    B:greatwoodbranch=false
-    B:silverwoodbranch=false
-}
-
-
 elevatorid {
     B:elevatorblack=true
     B:elevatorblue=true
@@ -4498,15 +4454,8 @@ enderio {
     B:blockelectriclight=false
     B:blockenchanter=false
     B:blockendercharge=false
-    B:blockendergenerator=false
     B:blockendermanskull=false
-    B:blockendironbars=false
-    B:blockenhancedalloysmelter=false
     B:blockenhancedcombustiongenerator=false
-    B:blockenhancedsagmill=false
-    B:blockenhancedvat=false
-    B:blockenhancedwiredcharger=false
-    B:blockenhancedwirelesscharger=false
     B:blockenlightenedfusedglass=false
     B:blockenlightenedfusedglass.1=false
     B:blockenlightenedfusedglass.10=false
@@ -4542,7 +4491,6 @@ enderio {
     B:blockexitrail=false
     B:blockexperienceobelisk=false
     B:blockfarmstation=false
-    B:blockfrankenzombiegenerator=false
     B:blockfusedglass=false
     B:blockfusedglass.1=false
     B:blockfusedglass.10=false
@@ -4581,7 +4529,6 @@ enderio {
     B:blockinfinityfog=false
     B:blockinhibitorobelisk=false
     B:blockkillerjoe=false
-    B:blocknormalwirelesscharger=false
     B:blockpaintedpressureplate.1=false
     B:blockpaintedpressureplate.10=false
     B:blockpaintedpressureplate.11=false
@@ -4625,7 +4572,6 @@ enderio {
     B:blockweatherobelisk=false
     B:blockwiredcharger=false
     B:blockwirelesscharger=false
-    B:blockwirelesschargerextension=true
     B:blockxpvacuum=false
     B:blockzombiegenerator=false
 }
@@ -10400,15 +10346,6 @@ gardenstuff {
 }
 
 
-gearswap {
-    B:gearswapperglass=false
-    B:gearswapperiron=false
-    B:gearswapperlapis=false
-    B:gearswapperstone=false
-    B:gearswapperwood=false
-}
-
-
 gendustry {
     B:extractor=false
     B:imprinter=false
@@ -10902,7 +10839,6 @@ industrialforegoing {
     B:biofuelgenerator=false
     B:bioreactor=false
     B:blackholecontroller=false
-    B:blackholelabel=false
     B:blackholetank=false
     B:blackholeunit=false
     B:blockdestroyer=false
@@ -11195,32 +11131,6 @@ libvulpes {
     B:ore0.9=true
     B:placeholder=false
     B:structuremachine=true
-}
-
-
-littletiles {
-    B:ltcoloredblock=true
-    B:ltcoloredblock.1=true
-    B:ltcoloredblock.10=true
-    B:ltcoloredblock.11=true
-    B:ltcoloredblock.12=true
-    B:ltcoloredblock.13=true
-    B:ltcoloredblock.2=true
-    B:ltcoloredblock.3=true
-    B:ltcoloredblock.4=true
-    B:ltcoloredblock.5=true
-    B:ltcoloredblock.6=true
-    B:ltcoloredblock.7=true
-    B:ltcoloredblock.8=true
-    B:ltcoloredblock.9=true
-    B:ltparticleblock=false
-    B:ltstorageblocktile=true
-    B:lttransparentcoloredblock=true
-    B:lttransparentcoloredblock.1=true
-    B:lttransparentcoloredblock.2=true
-    B:lttransparentcoloredblock.3=true
-    B:lttransparentcoloredblock.4=true
-    B:lttransparentcoloredblock.5=true
 }
 
 
@@ -13039,11 +12949,6 @@ opencomputers {
 }
 
 
-platforms {
-    B:platform=false
-}
-
-
 plustic {
     B:alumiteblock=true
     B:invarblock=true
@@ -13825,7 +13730,6 @@ rustic {
     B:ironberryjuice=false
     B:ironlantern=false
     B:ironlattice=false
-    B:ironwoodbranch=false
     B:ironwoodslabitem=false
     B:leaves=false
     B:leaves.1=false
@@ -13834,7 +13738,6 @@ rustic {
     B:log=true
     B:log.1=true
     B:mooncapmushroom=false
-    B:olivebranch=false
     B:oliveoil=false
     B:oliveslabitem=false
     B:paintedwoodblack=true
@@ -14359,7 +14262,6 @@ thaumictinkerer {
     B:dissimulation=false
     B:funnel=false
     B:magnet=false
-    B:mobmagnet=false
     B:repairer=false
     B:transvectordislocator=false
     B:transvectorinterface=false
@@ -14830,11 +14732,6 @@ voidcraft {
     B:voidinfuser=false
     B:voidinfuserinert=true
     B:voidmacerator=false
-}
-
-
-waystones {
-    B:waystone=false
 }
 
 

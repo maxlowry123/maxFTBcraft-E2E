@@ -240,7 +240,7 @@ resources {
     # note 2: if there is a space on the end of the recipe, then the recipe name must stay in "recipename", this is ONLY required when there is a space on the end " " [default: ]
     S:recipeToRemoveList <
         ingotbronze_x4_size.4
-        unidict:blockuranium_x1_shape.aaaaaaaaa
+		unidict:blockuranium_x1_shape.aaaaaaaaa
      >
 
     # resources to be black-listed.

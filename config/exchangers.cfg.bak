@@ -50,11 +50,6 @@ exchangers {
         # Min: 0
         # Max: 2147483647
         I:diamondMaxHarvestLevel=7
-
-        # Set the max range for Diamond Exchanger
-        # Min: 0
-        # Max: 12
-        I:diamondMaxRange=4
         I:emeMaxDmg=8192
 
         # Set the durability for Emerald Exchanger
@@ -66,11 +61,6 @@ exchangers {
         # Min: 0
         # Max: 2147483647
         I:emeraldMaxHarvestLevel=7
-
-        # Set the max range for Emerald Exchanger
-        # Min: 0
-        # Max: 12
-        I:emeraldMaxRange=5
         I:goldMaxDmg=512
 
         # Set the durability for Golden Exchanger
@@ -83,11 +73,6 @@ exchangers {
         # Max: 2147483647
         I:goldenMaxHarvestLevel=5
 
-        # Set the max range for Golden Exchanger
-        # Min: 0
-        # Max: 12
-        I:goldenMaxRange=2
-
         # Set the durability for Iron Exchanger
         # Min: 1
         # Max: 2147483647
@@ -97,11 +82,6 @@ exchangers {
         # Min: 0
         # Max: 2147483647
         I:ironMaxHarvestLevel=5
-
-        # Set the max range for Iron Exchanger
-        # Min: 0
-        # Max: 12
-        I:ironMaxRange=3
         I:obsMaxDmg=16384
 
         # Set the durability for Obsidian Exchanger
@@ -114,11 +94,6 @@ exchangers {
         # Max: 2147483647
         I:obsidianMaxHarvestLevel=8
 
-        # Set the max range for Obsidian Exchanger
-        # Min: 0
-        # Max: 12
-        I:obsidianMaxRange=7
-
         # Set the durability for Stone Exchanger
         # Min: 1
         # Max: 2147483647
@@ -128,11 +103,6 @@ exchangers {
         # Min: 0
         # Max: 2147483647
         I:stoneMaxHarvestLevel=3
-
-        # Set the max range for Stone Exchanger
-        # Min: 0
-        # Max: 12
-        I:stoneMaxRange=1
         I:woodMaxDmg=256
 
         # Set the durability for Wooden Exchanger
@@ -144,11 +114,6 @@ exchangers {
         # Min: 0
         # Max: 2147483647
         I:woodenMaxHarvestLevel=2
-
-        # Set the max range for Wooden Exchanger
-        # Min: 0
-        # Max: 12
-        I:woodenMaxRange=0
     }
 
     enderiotweaks {
@@ -161,11 +126,6 @@ exchangers {
         # Min: 0
         # Max: 2147483647
         I:conductiveMaxHarvestLevel=8
-
-        # Set the max range for Conductive Iron Exchanger
-        # Min: 0
-        # Max: 12
-        I:conductiveMaxRange=1
 
         # Set the Rf consumption per block for Conductive Iron Exchanger
         # Min: 1
@@ -182,11 +142,6 @@ exchangers {
         # Max: 2147483647
         I:darkSteelMaxHarvestLevel=8
 
-        # Set the max range for Dark Steel Exchanger
-        # Min: 0
-        # Max: 12
-        I:darkSteelMaxRange=6
-
         # Set the RF consumption per block for Dark Steel Exchanger
         # Min: 1
         # Max: 2147483647
@@ -201,11 +156,6 @@ exchangers {
         # Min: 0
         # Max: 2147483647
         I:electricalSteelMaxHarvestLevel=8
-
-        # Set the max range for Electrical Steel Exchanger
-        # Min: 0
-        # Max: 12
-        I:electricalSteelMaxRange=4
 
         # Set the RF consumption per block for Electrical Steel Exchanger
         # Min: 1
@@ -222,11 +172,6 @@ exchangers {
         # Max: 2147483647
         I:energeticMaxHarvestLevel=8
 
-        # Set the max range for Energetic Exchanger
-        # Min: 0
-        # Max: 12
-        I:energeticMaxRange=5
-
         # Set the RF consumption per block for Energetic Exchanger
         # Min: 1
         # Max: 2147483647
@@ -242,11 +187,6 @@ exchangers {
         # Max: 2147483647
         I:pulsatingMaxHarvestLevel=8
 
-        # Set the max range for Pulsating Iron Exchanger
-        # Min: 0
-        # Max: 12
-        I:pulsatingMaxRange=2
-
         # Set the RF consumption per block for Pulsating Iron Exchanger
         # Min: 1
         # Max: 2147483647
@@ -261,11 +201,6 @@ exchangers {
         # Min: 0
         # Max: 2147483647
         I:vibrantMaxHarvestLevel=9
-
-        # Set the max range for Vibrant Exchanger
-        # Min: 0
-        # Max: 12
-        I:vibrantMaxRange=7
 
         # Set the RF consumption per block for Vibrant Exchanger
         # Min: 1
@@ -284,11 +219,6 @@ exchangers {
         # Max: 2147483647
         I:hardenedMaxHarvestLevel=8
 
-        # Set the max range for Hardened Exchanger
-        # Min: 0
-        # Max: 12
-        I:hardenedMaxRange=3
-
         # Set the RF consumption per block for Hardened Exchanger
         # Min: 1
         # Max: 2147483647
@@ -303,11 +233,6 @@ exchangers {
         # Min: 0
         # Max: 2147483647
         I:leadstoneMaxHarvestLevel=7
-
-        # Set the max range for Leadstone Exchanger
-        # Min: 0
-        # Max: 12
-        I:leadstoneMaxRange=1
 
         # Set the RF consumption per block for Leadstone Exchanger
         # Min: 1
@@ -324,11 +249,6 @@ exchangers {
         # Max: 2147483647
         I:reinforcedMaxHarvestLevel=6
 
-        # Set the max range for Reinforced Exchanger
-        # Min: 0
-        # Max: 12
-        I:reinforcedMaxRange=5
-
         # Set the RF consumption per block for Reinforced Exchanger
         # Min: 1
         # Max: 2147483647
@@ -344,11 +264,6 @@ exchangers {
         # Max: 2147483647
         I:resonantMaxHarvestLevel=10
 
-        # Set the max range for Resonant Exchanger
-        # Min: 0
-        # Max: 12
-        I:resonantMaxRange=7
-
         # Set the RF consumption per block for Resonant Exchanger
         # Min: 1
         # Max: 2147483647
@@ -363,11 +278,6 @@ exchangers {
         # Min: 0
         # Max: 2147483647
         I:signalumMaxHarvestLevel=9
-
-        # Set the max range for Signalum Exchanger
-        # Min: 0
-        # Max: 12
-        I:signalumMaxRange=6
 
         # Set the RF consumption per block for Signalum Exchanger
         # Min: 1
@@ -386,11 +296,6 @@ exchangers {
         # Max: 2147483647
         I:advancedMaxHarvestLevel=7
 
-        # Set the max range for Advanced Exchanger
-        # Min: 0
-        # Max: 12
-        I:advancedMaxRange=5
-
         # Set the RF consumption per block for Advanced Exchanger
         # Min: 1
         # Max: 2147483647
@@ -405,11 +310,6 @@ exchangers {
         # Min: 0
         # Max: 2147483647
         I:basicMaxHarvestLevel=6
-
-        # Set the max range for Basic Exchanger
-        # Min: 0
-        # Max: 12
-        I:basicMaxRange=3
 
         # Set the RF consumption per block for Basic Exchanger
         # Min: 1
@@ -426,11 +326,6 @@ exchangers {
         # Max: 2147483647
         I:eliteMaxHarvestLevel=8
 
-        # Set the max range for Elite Exchanger
-        # Min: 0
-        # Max: 12
-        I:eliteMaxRange=6
-
         # Set the RF consumption per block for Elite Exchanger
         # Min: 1
         # Max: 2147483647
@@ -445,11 +340,6 @@ exchangers {
         # Min: 0
         # Max: 2147483647
         I:ultimateMaxHarvestLevel=10
-
-        # Set the max range for Ultimate Exchanger
-        # Min: 0
-        # Max: 12
-        I:ultimateMaxRange=7
 
         # Set the RF consumption per block for Ultimate Exchanger
         # Min: 1
@@ -468,11 +358,6 @@ exchangers {
         # Max: 2147483647
         I:hvMaxHarvestLevel=8
 
-        # Set the max range for HV Exchanger
-        # Min: 0
-        # Max: 12
-        I:hvMaxRange=7
-
         # Set the RF consumption per block for HV Exchanger
         # Min: 1
         # Max: 2147483647
@@ -488,11 +373,6 @@ exchangers {
         # Max: 2147483647
         I:lvMaxHarvestLevel=7
 
-        # Set the max range for LV Exchanger
-        # Min: 0
-        # Max: 12
-        I:lvMaxRange=3
-
         # Set the RF consumption per block for LV Exchanger
         # Min: 1
         # Max: 2147483647
@@ -507,11 +387,6 @@ exchangers {
         # Min: 0
         # Max: 2147483647
         I:mvMaxHarvestLevel=8
-
-        # Set the max range for MV Exchanger
-        # Min: 0
-        # Max: 12
-        I:mvMaxRange=5
 
         # Set the RF consumption per block for MV Exchanger
         # Min: 1

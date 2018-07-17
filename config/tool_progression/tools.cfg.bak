@@ -123,12 +123,6 @@ tool {
     # enderio:item_dark_steel_pickaxe [default: pickaxe=5]
     S:"enderio:item_dark_steel_pickaxe"=pickaxe=5
 
-    # enderio:item_end_steel_axe [default: axe=5]
-    S:"enderio:item_end_steel_axe"=axe=5
-
-    # enderio:item_end_steel_pickaxe [default: pickaxe=5]
-    S:"enderio:item_end_steel_pickaxe"=pickaxe=5
-
     # extrautils2:fireaxe [default: axe=6]
     S:"extrautils2:fireaxe"=axe=6
 
@@ -188,15 +182,6 @@ tool {
 
     # iceandfire:silver_shovel [default: shovel=2]
     S:"iceandfire:silver_shovel"=shovel=2
-
-    # immersiveengineering:axe_steel [default: axe=2]
-    S:"immersiveengineering:axe_steel"=axe=2
-
-    # immersiveengineering:pickaxe_steel [default: pickaxe=2]
-    S:"immersiveengineering:pickaxe_steel"=pickaxe=2
-
-    # immersiveengineering:shovel_steel [default: shovel=2]
-    S:"immersiveengineering:shovel_steel"=shovel=2
 
     # immersiveengineering:tool [default: IE_HAMMER=2]
     S:"immersiveengineering:tool"=IE_HAMMER=2
@@ -308,72 +293,6 @@ tool {
 
     # opencomputers:wrench [default: wrench=1]
     S:"opencomputers:wrench"=wrench=1
-
-    # pickletweaks:aluminum_paxel [default: pickaxe=1,shovel=1,axe=1]
-    S:"pickletweaks:aluminum_paxel"=pickaxe=1,shovel=1,axe=1
-
-    # pickletweaks:bronze_paxel [default: pickaxe=2,shovel=2,axe=2]
-    S:"pickletweaks:bronze_paxel"=pickaxe=2,shovel=2,axe=2
-
-    # pickletweaks:constantan_paxel [default: pickaxe=2,shovel=2,axe=2]
-    S:"pickletweaks:constantan_paxel"=pickaxe=2,shovel=2,axe=2
-
-    # pickletweaks:copper_paxel [default: pickaxe=1,shovel=1,axe=1]
-    S:"pickletweaks:copper_paxel"=pickaxe=1,shovel=1,axe=1
-
-    # pickletweaks:diamond_paxel [default: pickaxe=3,shovel=3,axe=3]
-    S:"pickletweaks:diamond_paxel"=pickaxe=3,shovel=3,axe=3
-
-    # pickletweaks:electrum_paxel [default: pickaxe=0,shovel=0,axe=0]
-    S:"pickletweaks:electrum_paxel"=pickaxe=0,shovel=0,axe=0
-
-    # pickletweaks:flint_axe [default: axe=1]
-    S:"pickletweaks:flint_axe"=axe=1
-
-    # pickletweaks:flint_paxel [default: pickaxe=1,shovel=1,axe=1]
-    S:"pickletweaks:flint_paxel"=pickaxe=1,shovel=1,axe=1
-
-    # pickletweaks:flint_pickaxe [default: pickaxe=1]
-    S:"pickletweaks:flint_pickaxe"=pickaxe=1
-
-    # pickletweaks:flint_shovel [default: shovel=1]
-    S:"pickletweaks:flint_shovel"=shovel=1
-
-    # pickletweaks:golden_paxel [default: pickaxe=0,shovel=0,axe=0]
-    S:"pickletweaks:golden_paxel"=pickaxe=0,shovel=0,axe=0
-
-    # pickletweaks:invar_paxel [default: pickaxe=2,shovel=2,axe=2]
-    S:"pickletweaks:invar_paxel"=pickaxe=2,shovel=2,axe=2
-
-    # pickletweaks:iron_paxel [default: pickaxe=2,shovel=2,axe=2]
-    S:"pickletweaks:iron_paxel"=pickaxe=2,shovel=2,axe=2
-
-    # pickletweaks:lead_paxel [default: pickaxe=1,shovel=1,axe=1]
-    S:"pickletweaks:lead_paxel"=pickaxe=1,shovel=1,axe=1
-
-    # pickletweaks:nickel_paxel [default: pickaxe=2,shovel=2,axe=2]
-    S:"pickletweaks:nickel_paxel"=pickaxe=2,shovel=2,axe=2
-
-    # pickletweaks:platinum_paxel [default: pickaxe=4,shovel=4,axe=4]
-    S:"pickletweaks:platinum_paxel"=pickaxe=4,shovel=4,axe=4
-
-    # pickletweaks:silver_paxel [default: pickaxe=2,shovel=2,axe=2]
-    S:"pickletweaks:silver_paxel"=pickaxe=2,shovel=2,axe=2
-
-    # pickletweaks:steel_paxel [default: pickaxe=2,shovel=2,axe=2]
-    S:"pickletweaks:steel_paxel"=pickaxe=2,shovel=2,axe=2
-
-    # pickletweaks:stone_paxel [default: pickaxe=1,shovel=1,axe=1]
-    S:"pickletweaks:stone_paxel"=pickaxe=1,shovel=1,axe=1
-
-    # pickletweaks:tin_paxel [default: pickaxe=1,shovel=1,axe=1]
-    S:"pickletweaks:tin_paxel"=pickaxe=1,shovel=1,axe=1
-
-    # pickletweaks:wooden_paxel [default: pickaxe=0,shovel=0,axe=0]
-    S:"pickletweaks:wooden_paxel"=pickaxe=0,shovel=0,axe=0
-
-    # platforms:wrench [default: wrench=2]
-    S:"platforms:wrench"=wrench=2
 
     # plustic:katana [default: sword=0]
     S:"plustic:katana"=sword=0

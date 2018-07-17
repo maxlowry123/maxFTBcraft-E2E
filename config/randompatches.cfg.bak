@@ -1,0 +1,63 @@
+# Configuration file
+
+##########################################################################################################
+# client
+#--------------------------------------------------------------------------------------------------------#
+# Options related to client-sided features.
+##########################################################################################################
+
+client {
+    # Speeds up language switching.
+    # Default: true
+    B:fastLanguageSwitch=true
+
+    # Forces Minecraft to show the title screen after disconnecting rather than the Multiplayer or Realms menu.
+    # Default: false
+    B:forceTitleScreenOnDisconnect=false
+
+    # Whether to add the Toggle Narrator keybind to the controls.
+    # Default: true
+    B:narratorKeybind=true
+}
+
+
+##########################################################################################################
+# misc
+#--------------------------------------------------------------------------------------------------------#
+# Options that don't fit into any other categories.
+##########################################################################################################
+
+misc {
+    # Fixes MC-64836, which causes non-player entities to be allowed to control Minecarts using their AI.
+    # Default: true
+    B:minecartAIFix=true
+
+    # Enables the /rpreload command. This option only takes effect after a world restart.
+    # Default: true
+    B:rpreload=true
+
+    # Enables the /rpreloadclient command. This option only takes effect after a Minecraft restart.
+    # Default: true
+    B:rpreloadclient=true
+}
+
+
+misc {
+    # Forces Minecraft to show the title screen on disconnect, rather than the Multiplayer or Realms menu. [default: false]
+    B:forceTitleScreenOnDisconnect=false
+}
+
+
+timeouts {
+    # The interval at which the server sends the KeepAlive packet. [default: 15, range: 1-2147483647]
+    I:keepAlivePacketInterval=15
+
+    # The login timeout. [default: 900, range: 1-2147483647]
+    I:loginTimeout=300
+    B:patchForgeDefaults=false
+
+    # The read timeout. This is the time it takes for a client to be disconnected after not responding to a KeepAlive packet. This figure is automatically rounded up to a product of keepAlivePacketInterval. [default: 90, range: 1-2147483647]
+    I:readTimeout=120
+}
+
+

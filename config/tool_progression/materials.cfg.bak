@@ -81,9 +81,6 @@ material {
     # cobalt [default: 4]
     S:cobalt=4
 
-    # constantan [default: 2]
-    S:constantan=2
-
     # copper [default: 1]
     S:copper=1
 
@@ -126,9 +123,6 @@ material {
     # enderium_plustic [default: 4]
     S:enderium_plustic=4
 
-    # endsteel [default: 5]
-    S:endsteel=5
-
     # endstone [default: 3]
     S:endstone=3
 
@@ -167,12 +161,6 @@ material {
 
     # icedragonbone [default: 4]
     S:icedragonbone=4
-
-    # ie:steel [default: 2]
-    S:"ie:steel"=2
-
-    # immolation [default: 9]
-    S:immolation=9
 
     # inferium [default: 2]
     S:inferium=2
@@ -357,45 +345,6 @@ material {
     # psimetal [default: 3]
     S:psimetal=3
 
-    # pt:aluminum [default: 1]
-    S:"pt:aluminum"=1
-
-    # pt:bronze [default: 2]
-    S:"pt:bronze"=2
-
-    # pt:constantan [default: 2]
-    S:"pt:constantan"=2
-
-    # pt:copper [default: 1]
-    S:"pt:copper"=1
-
-    # pt:electrum [default: 0]
-    S:"pt:electrum"=0
-
-    # pt:flint [default: 1]
-    S:"pt:flint"=1
-
-    # pt:invar [default: 2]
-    S:"pt:invar"=2
-
-    # pt:lead [default: 1]
-    S:"pt:lead"=1
-
-    # pt:nickel [default: 2]
-    S:"pt:nickel"=2
-
-    # pt:platinum [default: 4]
-    S:"pt:platinum"=4
-
-    # pt:silver [default: 2]
-    S:"pt:silver"=2
-
-    # pt:steel [default: 2]
-    S:"pt:steel"=2
-
-    # pt:tin [default: 1]
-    S:"pt:tin"=1
-
     # ra:fluxelectrum [default: 4]
     S:"ra:fluxelectrum"=4
 
@@ -521,9 +470,6 @@ material {
 
     # topaz [default: 4]
     S:topaz=4
-
-    # treatedwood [default: 0]
-    S:treatedwood=0
 
     # trollweapon [default: 2]
     S:trollweapon=2
