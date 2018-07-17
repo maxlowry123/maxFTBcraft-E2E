@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+<recipe name="Stirling Generator, Upgrade" disabled="true">
+    <crafting upgrade="true">
+      <grid size="3x3">
+        <item /><item name="enderio:block_simple_stirling_generator" /><item />
+        <item /><item name="CHASSIS" /><item />
+        <item name="GEAR_ENERGIZED" /><item /><item name="GEAR_ENERGIZED" />
+      </grid>
+      <output name="enderio:block_stirling_generator" />
+    </crafting>
+  </recipe>
+  
+ <recipe name="Enhanced Combustion Generator, Upgrade" disabled="true">
+    <crafting upgrade="true">
+      <grid size="3x2">
+        <item name="EnderIO:block_tank:1" /><item name="enderio:block_combustion_generator" /><item name="EnderIO:block_tank:1" />
+        <item name="GEAR_VIBRANT" /><item /><item name="GEAR_VIBRANT" />
+      </grid>
+      <output name="enderio:block_enhanced_combustion_generator" />
+    </crafting>
+  </recipe>
+  
+  <recipe name="Alloy Smelter, Upgrade" disabled="true">
+    <crafting upgrade="true">
+      <grid size="3x3">
+        <item /><item name="enderio:block_simple_alloy_smelter" /><item />
+        <item /><item name="CHASSIS" /><item />
+        <item name="GEAR_ENERGIZED" /><item name="item:minecraft:cauldron" /><item name="GEAR_ENERGIZED" />
+      </grid>
+      <output name="enderio:block_alloy_smelter" />
+    </crafting>
+  </recipe>
+  
+  <recipe name="Solar Panel 2, Upgrade" disabled="true">
+    <crafting>
+      <grid size="3x3">
+        <item name="ENERGETIC_ALLOY" /><item name="FUSED_QUARTZ" /><item name="ENERGETIC_ALLOY" />
+        <item /><item name="SOLAR_1" /><item />
+        <item name="CAPACITOR1" /><item name="minecraft:daylight_detector" /><item name="CAPACITOR1" />
+      </grid>
+      <output name="SOLAR_2" />
+    </crafting>
+  </recipe>
+  
+  <recipe name="Solar Panel 3, Upgrade" disabled="true">
+    <crafting>
+      <grid size="3x3">
+        <item name="PULSATING_IRON" /><item name="ENLIGHTED_QUARTZ" /><item name="PULSATING_IRON" />
+        <item name="ENERGETIC_ALLOY" /><item name="dustCoal" /><item name="ENERGETIC_ALLOY" />
+        <item name="CAPACITOR1" /><item name="SOLAR_2" /><item name="CAPACITOR1" />
+      </grid>
+      <output name="SOLAR_3" />
+    </crafting>
+  </recipe>
+  
+  <recipe name="Solar Panel 4, Upgrade" disabled="true">
+    <crafting>
+      <grid size="3x3">
+        <item name="VIBRANT_ALLOY" /><item name="DARK_QUARTZ" /><item name="VIBRANT_ALLOY" />
+        <item name="VIBRANT_ALLOY" /><item name="oredict:glowstone" /><item name="VIBRANT_ALLOY" />
+        <item name="CAPACITOR2" /><item name="SOLAR_3" /><item name="CAPACITOR2" />
+      </grid>
+      <output name="SOLAR_4" />
+    </crafting>
+  </recipe>
+  
+  <recipe name="Crafter, Upgrade" disabled="true">
+    <crafting>
+      <grid size="3x3">
+        <item /><item name="enderio:block_simple_crafter" /><item />
+        <item /><item name="CHASSIS" /><item />
+        <item name="GEAR_IRON" /><item name="oredict:workbench" /><item name="GEAR_IRON" />
+      </grid>
+      <output name="enderio:block_crafter" />
+    </crafting>
+  </recipe>
+  <recipe name="SAG Mill, Upgrade" disabled="true">
+    <crafting upgrade="true">
+      <grid size="3x3">
+        <item /><item name="enderio:block_simple_sag_mill" /><item />
+        <item /><item name="CHASSIS" /><item />
+        <item name="GEAR_ENERGIZED" /><item /><item name="GEAR_ENERGIZED" />
+      </grid>
+      <output name="enderio:block_sag_mill" />
+    </crafting>
+  </recipe>
+  <recipe name="Gear, Wood"  disabled="true">
+    <crafting>
+      <grid>
+        <item /><item name="stickWood"/><item />
+        <item name="stickWood"/><item /><item name="stickWood"/>
+        <item /><item name="stickWood"/><item />
+      </grid>
+      <output name="GEAR_WOOD"/>
+    </crafting>
+  </recipe>
+
+  <recipe name="Gear, ae2 messes things up"  disabled="true">
+    <crafting>
+      <grid>
+        <item name="stickWood"/><item /><item name="stickWood"/>
+        <item /><item /><item />
+        <item name="stickWood"/><item /><item name="stickWood"/>
+      </grid>
+      <output name="GEAR_WOOD"/>
+    </crafting>
+  </recipe>
+
+  <recipe name="Gear, just to be sure"  disabled="true">
+    <crafting>
+      <grid size="3x2">
+        <item name="stickWood"/><item /><item name="stickWood"/>
+        <item name="stickWood"/><item /><item name="stickWood"/>
+      </grid>
+      <output name="GEAR_WOOD"/>
+    </crafting>
+  </recipe>
+
+  <recipe name="Gear, better save than sorry"  disabled="true">
+    <crafting>
+      <grid size="2x3">
+        <item name="stickWood"/><item name="stickWood"/>
+        <item /><item />
+        <item name="stickWood"/><item name="stickWood"/>
+      </grid>
+      <output name="GEAR_WOOD"/>
+    </crafting>
+  </recipe>
+
+  <recipe name="Gear, Stone"  disabled="true">
+    <crafting>
+      <grid>
+        <item name="stickWood"/><item name="oredict:cobblestone"/><item name="stickWood"/>
+        <item name="oredict:cobblestone"/><item /><item name="oredict:cobblestone"/>
+        <item name="stickWood"/><item name="oredict:cobblestone"/><item name="stickWood"/>
+      </grid>
+      <output name="GEAR_STONE"/>
+    </crafting>
+  </recipe>
+
+  <recipe name="Gear, Stone, Upgrade"  disabled="true">
+    <crafting>
+      <grid>
+        <item /><item name="oredict:cobblestone"/><item />
+        <item name="oredict:cobblestone"/><item name="GEAR_WOOD"/><item name="oredict:cobblestone"/>
+        <item /><item name="oredict:cobblestone"/><item />
+      </grid>
+      <output name="GEAR_STONE"/>
+    </crafting>
+  </recipe>
+</enderio:recipes>
+
